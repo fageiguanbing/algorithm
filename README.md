@@ -5,3 +5,5 @@
 [590.n-ary-tree-postorder-traversal](590.n-ary-tree-postorder-traversal.java)
 
 [53.maximum-subarray](53.maximum-subarray.java)
+
+[42.trapping-rain-water](42.trapping-rain-water.java)
